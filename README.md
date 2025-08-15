@@ -6,7 +6,7 @@
 
 ## 📈 Project Overview
 
-This project is a comprehensive marketing analytics case study for **CodeX**, a German beverage company seeking to expand its energy drink brand in the Indian market. The project is based on a real-world **resume challenge** and simulates the role of a marketing data analyst (Peter Pandey) tasked with transforming raw survey data into actionable business insights for the company’s Chief Marketing Officer (CMO).
+This project is a comprehensive marketing analytics case study for **CodeX**, a German beverage company seeking to expand its energy drink brand in the Indian market. The project is based on a real-world **resume challenge** and simulates the role of a marketing data analyst tasked with transforming raw survey data into actionable business insights for the company’s Chief Marketing Officer (CMO).
 
 **Objective:**  
 Analyze survey responses from 10,000+ participants across 10 Indian cities to uncover consumer preferences, market trends, and actionable recommendations that will drive brand awareness, market share, and product development for CodeX.
@@ -17,14 +17,12 @@ Analyze survey responses from 10,000+ participants across 10 Indian cities to un
 
 > CodeX is a German beverage company aiming to make its mark in the Indian market. After launching its energy drink in 10 cities in India, the marketing team seeks to increase brand awareness, market share, and drive product development.  
 >  
-> **Your role:**  
-> As Peter Pandey (Marketing Data Analyst), analyze the provided survey data and generate meaningful insights to guide the marketing team’s strategy.
+> **My role:**  
+> As Jan Muhammad(Marketing Data Analyst), analyze the provided survey data and generate meaningful insights to guide the marketing team’s strategy.
 
-- **Dataset:** Survey results from 10,000 respondents in 10 cities
-- **Tools Used:** Power BI, MySQL (with additional analysis in Python, Excel as needed)
-- **Target Audience:** Chief Marketing Officer (15-minute executive presentation)
-- **Challenge Link:** [Codebasics Resume Project Challenge #9](https://codebasics.io/challenges/codebasics-resume-project-challenge/9)
-
+- **Dataset:** Survey results from 10,000 respondents in 10 cities available on this link [Codebasics Resume Project Challenge #9](https://codebasics.io/challenges/codebasics-resume-project-challenge/9)
+- **Tools Used:** Power BI and MySQL.
+- **Target Audience:** Designed for data analysts and general audiences, with a focus on mutual learning and open feedback.
 ---
 
 ## 💡 Key Business Questions & Insights
