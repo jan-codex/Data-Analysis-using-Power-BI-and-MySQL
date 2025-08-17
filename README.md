@@ -27,6 +27,70 @@ Analyze survey responses from 10,000+ participants across 10 Indian cities to un
 
 ## 💡 Key Business Questions & Insights
 
+**1. Demographic Insights (examples)**
+
+a. Who prefers energy drink more?  (male/female/non-binary?)
+
+b. Which age group prefers energy drinks more? 
+
+c. Which type of marketing reaches the most Youth (15-30)? 
+
+**2. Consumer Preferences:**
+
+a. What are the preferred ingredients of energy drinks among respondents? 
+
+b. What packaging preferences do respondents have for energy drinks? 
+
+**3. Competition Analysis:**
+
+a. Who are the current market leaders? 
+
+b. What are the primary reasons consumers prefer those brands over ours? 
+
+4. Marketing Channels and Brand Awareness:
+
+a. Which marketing channel can be used to reach more customers? 
+
+b. How effective are different marketing strategies and channels in reaching our 
+customers? 
+
+**6. Brand Penetration:** 
+
+a. What do people think about our brand? (overall rating) 
+
+b. Which cities do we need to focus more on? 
+
+**7. Purchase Behavior:** 
+
+a. Where do respondents prefer to purchase energy drinks? 
+
+b. What are the typical consumption situations for energy drinks among 
+respondents? 
+
+c. What factors influence respondents' purchase decisions, such as price range and 
+limited edition packaging? 
+
+**8. Product Development**
+
+a. Which area of business should we focus more on our product development? 
+(Branding/taste/availability) 
+
+**Secondary Insights**
+
+**Give 5 recommendations for CodeX**
+
+● What immediate improvements can we bring to the product? 
+
+● What should be the ideal price of our product? 
+
+● What kind of marketing campaigns, offers, and discounts we can run? 
+
+● Who can be a brand ambassador, and why? 
+
+● Who should be our target audience, and why? 
+
+# Insights 
+
 ### 1. Demographic Insights
 - **Gender Preference:** 60% of energy drink consumers are male.
 - **Age Group:** 55% are aged 19–30, indicating youth preference.
@@ -75,45 +139,10 @@ Analyze survey responses from 10,000+ participants across 10 Indian cities to un
 ## 🛠️ Technologies Used
 
 - **Power BI** – Interactive dashboards, executive summary
-- **MySQL** – Data cleaning, querying, aggregation
-- **Python** *(optional)* – Data wrangling, EDA
-- **Excel** – Quick insights and validation
+- **MySQL** – Queried raw, unaggregated survey and market data to validate Power BI outputs, ensuring calculation accuracy and consistency with the source.
 
 ---
 
-## 📁 Dataset & Resources
-
-- `Primary_Secondary_Insights.pdf` (Survey questions and metadata)
-- Main survey dataset (CSV/Excel)
-- [Codebasics Challenge Link](https://codebasics.io/challenges/codebasics-resume-project-challenge/9)
-
-*(Datasets are provided as part of the challenge and are not publicly redistributed here.)*
-
----
-
-## 🚀 Getting Started
-
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
-   ```
-
-2. **Open the Power BI file** (`.pbix`) or Jupyter Notebooks for exploration.
-
-3. **Set up MySQL**
-   - Import the dataset using provided scripts or MySQL Workbench.
-
-4. **Run analysis scripts** (Python/SQL) as needed.
-
----
-
-## 📊 Example Results
-
-- Executive dashboards in Power BI
-- Key visuals: Demographics, purchase behavior, brand ratings, and recommendations
-
-*(Add screenshots or sample dashboards here)*
 
 ---
 
@@ -130,4 +159,4 @@ This project is intended for educational/demo purposes as part of the [Codebasic
 ---
 
 **Contact:**  
-For questions or feedback, please reach out to [your.email@example.com](mailto:your.email@example.com).
+For questions or feedback, please reach out to [janmuhammad0016@gmail.com](mailto:janmuhammad0016@gmail.com).
